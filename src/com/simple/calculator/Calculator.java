@@ -1,4 +1,4 @@
-package application;
+package com.simple.calculator;
 
 import java.awt.Color;
 import java.awt.EventQueue;
