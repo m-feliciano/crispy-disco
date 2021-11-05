@@ -33,7 +33,7 @@ public class Teclado extends JPanel implements ActionListener {
 		addButton("7");
 		addButton("/", BG_ORANGE, Color.WHITE);
 
-		/* Thirt line */
+		/* Third line */
 		addButton("4");
 		addButton("5");
 		addButton("6");

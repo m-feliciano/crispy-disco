@@ -36,7 +36,7 @@ public class Button extends JButton implements ActionListener {
 
 	}
 
-	void comumColor() {
+	private void comumColor() {
 		setOpaque(true);
 		setFont(new Font("courier", Font.BOLD, 20));
 		setBorder(BorderFactory.createLineBorder(Color.BLACK));
